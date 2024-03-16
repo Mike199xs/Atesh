@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#SEC-1{
+    position: relative;
+    width: 100%;
+    height: max-content;
+}
+#SEC-{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+header{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    width: 100%;
+    height: 46vh;
+    
+}
+#Container-Name{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 51%;
+    height: 27vh;
+    border-bottom: 2px dotted black;
+}
+#Headline-Container{
+    width: 20vw;
+    height: 12vh;
+    background: linear-gradient(135deg, #8A2BE2, #FFA07A);
+    border-radius: 20px;
+}
+#UL-1{
+    padding-left: 0px;
+    list-style: none;
+    text-align: center;
+}
+.Name_H{
+    margin: auto;
+}
+.para{
+    width: 43vw;
+    text-align: center;
+}

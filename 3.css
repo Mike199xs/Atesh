@@ -1,0 +1,23 @@
+.Container-info{
+    width: 100%;
+    height: 30vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+
+.headline-info{
+    width: 25vw;
+    height: 7vh;
+    background-color:#28282B;
+    text-align: center;
+    display: flex;
+    color: #f3f3f3;
+}
+.H-info-1{
+   
+}
+.H-info-2{
+    margin: auto;
+}
